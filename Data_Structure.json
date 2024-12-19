@@ -1,0 +1,67 @@
+{
+  "enrollments": {
+    "-OESR7BKP8xPiiPVycj3": {
+      "credit": "3",
+      "subject": "Discrete Math"
+    },
+    "-OESdNDYuxCI_rKRDfEW": {
+      "credit": "3",
+      "subject": "Programming Concepts"
+    },
+    "-OESdSb_1KvpTS5NTjTM": {
+      "credit": "3",
+      "subject": "Calculus"
+    },
+    "-OESf8B9rsk43K1LcgVg": {
+      "credit": "3",
+      "subject": "Digital Forensics"
+    },
+    "-OESfFmhiugESgkTtyRK": {
+      "credit": "3",
+      "subject": "Cyber Security Fundamentals"
+    },
+    "-OESfQ3KeJ8dcehT9Hhb": {
+      "credit": "3",
+      "subject": "Security Compliance and Audit"
+    },
+    "-OESf_9A6mhBQeNYH0Et": {
+      "credit": "3",
+      "subject": "Deep Learning"
+    },
+    "-OESfst3YCkveSIm_9w6": {
+      "credit": "3",
+      "subject": "Game Intelligence"
+    },
+    "-OESfwQGrX6vNyz9n3iP": {
+      "credit": "3",
+      "subject": "Robotics"
+    }
+  },
+  "summary": {
+    "Calculus": "3",
+    "Cyber Security Fundamentals": "3",
+    "Digital Forensics": "3",
+    "Discrete Math": "3",
+    "Game Intelligence": "3",
+    "Programming Concepts": "3",
+    "Robotics": "3",
+    "Security Compliance and Audit": "3"
+  },
+  "users": {
+    "-OEU0fL-6NhmrPI-Sc3W": {
+      "email": "agus123@gmail.com",
+      "name": "Agus",
+      "password": "123456"
+    },
+    "-OEUF6L_h2Sae9s1adZw": {
+      "email": "mudik123@gmail.com",
+      "name": "Mudryk",
+      "password": "123456"
+    },
+    "-OEUNZCreTcNSyIAmgzt": {
+      "email": "antony21@goat.com",
+      "name": "Antony",
+      "password": "123456"
+    }
+  }
+}
